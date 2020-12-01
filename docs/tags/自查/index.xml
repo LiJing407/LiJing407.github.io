@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自查 on 木子的小千世界</title>
+    <link>https://blog.muzli.net/tags/%E8%87%AA%E6%9F%A5/</link>
+    <description>Recent content in 自查 on 木子的小千世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Apr 2020 18:00:00 +0800</lastBuildDate><atom:link href="https://blog.muzli.net/tags/%E8%87%AA%E6%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>设计自查总结</title>
+      <link>https://blog.muzli.net/posts/article/01-design-check-list/</link>
+      <pubDate>Tue, 07 Apr 2020 18:00:00 +0800</pubDate>
+      
+      <guid>https://blog.muzli.net/posts/article/01-design-check-list/</guid>
+      <description>为什么设计自查 为了世界和平呀！脑补一下十米大砍刀？哈哈哈，开玩笑~ 工作中我们需要对自己的产出负责，这就是最大的原因（认真脸）。 在互联网敏捷开发迭代的过程中，设计自查可以提供全面的检测，为上下游更高效的合作提供一个完整的设计方案。 设计方案的完整，指的是在自查阶段，考虑设计文件是否符合业务流程，页面的层级关系、信息区分及设计的扩展性。保证设计方案的完整是设计师的</description>
+    </item>
+    
+  </channel>
+</rss>
