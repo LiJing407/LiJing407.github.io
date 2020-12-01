@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>原创 on 木子的小千世界</title>
+    <link>https://blog.muzli.net/post/article/</link>
+    <description>Recent content in 原创 on 木子的小千世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Apr 2020 18:00:00 +0800</lastBuildDate><atom:link href="https://blog.muzli.net/post/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于瓷片区的笔记</title>
+      <link>https://blog.muzli.net/post/article/02-porcelain-area/</link>
+      <pubDate>Mon, 20 Apr 2020 18:00:00 +0800</pubDate>
+      
+      <guid>https://blog.muzli.net/post/article/02-porcelain-area/</guid>
+      <description>最近设计项目中涉及到新类型的广告位，于是和一些设计伙伴请教了解了一下，发现一些新的知识点，在此记录总结一下，也希望可以对大家有些小小的帮助。 1. 什么是瓷片区 👂听说：美团内部将首页的运营广告位模块称为瓷片位，其可以根据需求变动灵活调整，就像瓷片一样灵活适用，顾名思义，瓷片区也就被叫开来了。 根据下图我们可以了解到，瓷片区在产品中的应用。 2. 瓷片区的功能 瓷片区作为与 B</description>
+    </item>
+    
+    <item>
+      <title>设计自查总结</title>
+      <link>https://blog.muzli.net/post/article/01-design-check-list/</link>
+      <pubDate>Tue, 07 Apr 2020 18:00:00 +0800</pubDate>
+      
+      <guid>https://blog.muzli.net/post/article/01-design-check-list/</guid>
+      <description>为什么设计自查 为了世界和平呀！脑补一下十米大砍刀？哈哈哈，开玩笑~ 工作中我们需要对自己的产出负责，这就是最大的原因（认真脸）。 在互联网敏捷开发迭代的过程中，设计自查可以提供全面的检测，为上下游更高效的合作提供一个完整的设计方案。 设计方案的完整，指的是在自查阶段，考虑设计文件是否符合业务流程，页面的层级关系、信息区分及设计的扩展性。保证设计方案的完整是设计师的</description>
+    </item>
+    
+  </channel>
+</rss>
