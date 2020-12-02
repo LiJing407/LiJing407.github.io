@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="zh-hans" data-theme="light"><head>
+    <title> 木子 | 设计周刊 Design Weekly #33 </title>
+
+    
+    <meta charset="utf-8"><meta name="generator" content="Hugo 0.76.5" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="description" content="爱猫">
+    
+    <link rel="stylesheet"
+          href="https://blog.muzli.net/css/style.min.ae4af30f6a89627b05def70e914c14cbb53a71d28a88ec8d87a40ecc7c2778e2.css"
+          integrity="sha256-rkrzD2qJYnsF3vcOkUwUy7U6cdKKiOyNh6QOzHwneOI="
+          crossorigin="anonymous"
+          type="text/css">
+    <link rel="stylesheet"
+          href="https://blog.muzli.net/css/styles.31b2492d9eb002d1a79d630cc7d867de5fcb5cb64f561eda23b3d73356caf16f.css"
+          integrity="sha256-MbJJLZ6wAtGnnWMMx9hn3l/LXLZPVh7aI7PXM1bK8W8="
+          crossorigin="anonymous"
+          type="text/css"><link rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" 
+    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" 
+    crossorigin="anonymous" />
+
+    
+    <link rel="shortcut icon" href="https://blog.muzli.net/favicons/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://blog.muzli.net/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://blog.muzli.net/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://blog.muzli.net/favicons/favicon-16x16.png">
+
+    <link rel="canonical" href="https://blog.muzli.net/post/weekly/weekly033/">
+
+    
+    
+    
+    
+    <script type="text/javascript"
+            src="https://blog.muzli.net/js/anatole-header.min.c64e8fa977cf3531cda8e838dd53798667d68f8cf496c5201dd9c2333a2436f2.js"
+            integrity="sha256-xk6PqXfPNTHNqOg43VN5hmfWj4z0lsUgHdnCMzokNvI="
+            crossorigin="anonymous"></script>
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://blog.muzli.net/images/site-feature-image.png"/>
+
+<meta name="twitter:title" content="设计周刊 Design Weekly #33"/>
+<meta name="twitter:description" content="🏷 设计案例 Tower App Desing on Big Sur https://www.git-tower.com/blog/app-design-on-big-sur 文中案例解析了 macOS Big Sur 大刀阔斧的设计风格改变，以及产品 Tower Git 客户端如何应用这个风格的。 Google app logos Redesign https://medium.com/design-bootcamp/why-googles-new-app-icons-are-pretty-bad-10f1ec40ab04 作者 Markus Hofmann 通过图标设计原则对 Google app logos 进行了一番分析，并给出了重新设计后的方案。你对谷歌图标有什么看法吗？欢迎留言讨论。 🏷 设计资源 Blush：Tell your story with illustrations https://blush.design 插画平台 Blush，又新增主题了~啧啧啧 🏷 设计文章 NN/g : UX对定性指标的影响逐渐减小 https://www.nngroup.com/articles/ux-gains-shrinking/ 尼尔森"/>
+
+</head>
+<body><div class="sidebar animated fadeInDown">
+    <div class="logo-title">
+        <div class="title">
+            <img src="https://blog.muzli.net/images/profile.jpeg" alt="profile picture">
+            <h3 title=""><a href="/">木子的小千世界</a></h3>
+            <div class="description">
+                <p>爱猫</p>
+            </div>
+        </div>
+    </div>
+    <ul class="social-links">
+        
+            <li>
+                <a href="https://de.linkedin.com/" rel="me" aria-label="Linkedin">
+                    <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://github.com/LiJing407" rel="me" aria-label="GitHub">
+                    <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://www.instagram.com/" rel="me" aria-label="instagram">
+                    <i class="fab fa-instagram fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="mailto:mail@alexbilz.com" rel="me" aria-label="e-mail">
+                    <i class="fas fa-envelope fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+    </ul>
+    <div class="footer">
+        <div class="by_farbox">&copy; 木子 2020 </div>
+        <span id="busuanzi_container" style="color: #666;">
+            本站总访客数/访问量：<span id="busuanzi_value_site_uv"></span>/<span id="busuanzi_value_site_pv"></span>
+        </span>
+    </div>
+</div>
+<div class="main">
+    <div class="page-top animated fadeInDown">
+    <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+    </a>
+    <ul class="nav" id="navMenu">
+        
+        
+            
+            <li><a 
+                   href="/"
+                        
+                   title="">首页</a></li>
+        
+            
+            <li><a 
+                   href="/posts/weekly/"
+                        
+                   title="">周刊</a></li>
+        
+            
+            <li><a 
+                   href="/post/article/"
+                        
+                   title="">原创</a></li>
+        
+            
+            <li><a 
+                   href="/post/translation/"
+                        
+                   title="">翻译</a></li>
+        
+            
+            <li><a 
+                   href="/post/"
+                        
+                   title="">归档</a></li>
+        
+            
+            <li><a 
+                   href="/about/"
+                        
+                   title="">关于</a></li>
+        
+        
+        <li class="theme-switch-item">
+            <a class="theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+
+    <div class="autopagerize_page_element">
+        <div class="content">
+    <div class="post animated fadeInDown">
+        <div class="post-content">
+
+            <div class="post-title">
+                <h1>设计周刊 Design Weekly #33</h1>
+                
+                    <div class="info">
+                        <em class="fas fa-calendar-day"></em>
+                        <span class="date">Mon, Apr 20, 2020</span>
+                        <em class="fas fa-stopwatch"></em>
+                        <span class="reading-time"></span>
+                    </div>
+                
+            </div>
+
+            <h2 id="-设计案例">🏷 设计案例</h2>
+<h4 id="tower-app-desing-on-big-sur">Tower App Desing on Big Sur</h4>
+<p><a href="https://www.git-tower.com/blog/app-design-on-big-sur">https://www.git-tower.com/blog/app-design-on-big-sur</a></p>
+<p>文中案例解析了 macOS Big Sur 大刀阔斧的设计风格改变，以及产品 Tower Git 客户端如何应用这个风格的。</p>
+<p><p class="md__image">
+  <img src="../imgs/issue033/tower-icon.png"
+    alt="img"  />
+</p>
+</p>
+<p><p class="md__image">
+  <img src="../imgs/issue033/big-sur-window.png"
+    alt="img"  />
+</p>
+</p>
+<h4 id="google-app-logos-redesign">Google app logos Redesign</h4>
+<p><a href="https://medium.com/design-bootcamp/why-googles-new-app-icons-are-pretty-bad-10f1ec40ab04">https://medium.com/design-bootcamp/why-googles-new-app-icons-are-pretty-bad-10f1ec40ab04</a></p>
+<p>作者 Markus Hofmann 通过图标设计原则对 Google app logos 进行了一番分析，并给出了重新设计后的方案。你对谷歌图标有什么看法吗？欢迎留言讨论。</p>
+<p><p class="md__image">
+  <img src="../imgs/issue033/googleicons-03.png"
+    alt="Image for post"  />
+</p>
+</p>
+<p><p class="md__image">
+  <img src="../imgs/issue033/googleicons.png"
+    alt="New Google Calendar icon becomes unrecognisable on iOS due it being scaled down too much within the app icon frame"  />
+</p>
+</p>
+<p><p class="md__image">
+  <img src="../imgs/issue033/googleicons-02.png"
+    alt="Comparison of Google’s new Workplace icons and my gently optimised as well as bold, more distinct versions"  />
+</p>
+</p>
+<h2 id="-设计资源">🏷 设计资源</h2>
+<h4 id="blushtell-your-story-with-illustrations">Blush：Tell your story with illustrations</h4>
+<p><a href="https://blush.design">https://blush.design</a></p>
+<p>插画平台 Blush，又新增主题了~啧啧啧</p>
+<p><p class="md__image">
+  <img src="../imgs/issue033/BLUSH.png"
+    alt="image-20201111154901728"  />
+</p>
+</p>
+<h2 id="-设计文章">🏷 设计文章</h2>
+<h4 id="nng--ux对定性指标的影响逐渐减小">NN/g : UX对定性指标的影响逐渐减小</h4>
+<p><a href="https://www.nngroup.com/articles/ux-gains-shrinking/">https://www.nngroup.com/articles/ux-gains-shrinking/</a></p>
+<p>尼尔森·诺曼集团通过收集整理的案例和数据，对 2006 年以来的各种设计项目进行了回顾分析：用户体验对定量指标的影响趋于下降，这意味着 UX 在过去的 14 年中得到了长足发展。对于整个 UX 行业来说，将进入一个完善时期。在UX 总体体验越来越好，用户期望越来越高的大背景下，UX 的微小改进也是值得的。购买<a href="https://www.nngroup.com/reports/usability-return-on-investment-roi/" target="_blank" rel="noopener">UX指标和ROI</a>
+报告。</p>
+<p><p class="md__image">
+  <img src="../imgs/issue033/uxmetrics-chart.jpg"
+    alt="img"  />
+</p>
+</p>
+<h2 id="-设计新闻">🏷 设计新闻</h2>
+<h4 id="playstation-5的狂野设计内幕">Playstation 5的狂野设计内幕</h4>
+<p><a href="https://www.fastcompany.com/90573026/inside-the-wild-design-of-the-playstation-5">https://www.fastcompany.com/90573026/inside-the-wild-design-of-the-playstation-5</a></p>
+<p>PS5 作为今年最具争议的工业设计之一，一起听听首席设计师 Yujin Morusawa 使用 PS5 创造的体验。</p>
+<p><p class="md__image">
+  <img src="../imgs/issue033/Playstation.png"
+    alt="image-20201111103647790"  />
+</p>
+</p>
+<p><p class="md__image">
+  <img src="../imgs/issue033/Playstation-02.png"
+    alt="img"  />
+</p>
+</p>
+
+        </div>
+        <div class="post-footer">
+            <div class="info">
+                
+                <span class="separator"><a class="tag" href="/tags/%E8%AE%BE%E8%AE%A1%E5%91%A8%E5%88%8A/">设计周刊</a></span>
+
+            </div>
+        </div>
+
+        <div>
+          <img src="/muzi-qrcode.png" alt="" width="100%">
+        </div>
+
+<div class="related-posts thin">
+	<h2>相关推荐</h2>
+	<ul>
+	
+	<li><a href="/post/weekly/weekly002/">设计周刊 Design Weekly #002</a></li>
+	
+	<li><a href="/post/weekly/weekly003/">设计周刊 Design Weekly #003</a></li>
+	
+	<li><a href="/post/weekly/weekly004/">设计周刊 Design Weekly #004</a></li>
+	
+	<li><a href="/post/weekly/weekly005/">设计周刊 Design Weekly #005</a></li>
+	
+	<li><a href="/post/weekly/weekly006/">设计周刊 Design Weekly #006</a></li>
+	
+	</ul>
+</div>
+
+
+        <hr>
+
+        <script src="https://utteranc.es/client.js"
+                repo="LiJing407/LiJing407.github.io"
+                issue-term="pathname"
+                theme="github-light"
+                crossorigin="anonymous"
+                async>
+        </script>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript"
+        src="https://blog.muzli.net/js/jquery.min.86b1e8f819ee2d9099a783e50b49dff24282545fc40773861f9126b921532e4c.js"
+        integrity="sha256-hrHo&#43;BnuLZCZp4PlC0nf8kKCVF/EB3OGH5EmuSFTLkw="
+        crossorigin="anonymous"></script>
+
+
+
+
+<script type="text/javascript"
+        src="https://blog.muzli.net/js/bundle.min.0f9c74cb78f13d1f15f33daff4037c70354f98acfbb97a6f61708966675c3cae.js"
+        integrity="sha256-D5x0y3jxPR8V8z2v9AN8cDVPmKz7uXpvYXCJZmdcPK4="
+        crossorigin="anonymous"></script>
+
+<script type="text/javascript"
+        src="https://blog.muzli.net/js/medium-zoom.min.92f21c856129f84aeb719459b3e6ac621a3032fd7b180a18c04e1d12083f8aba.js"
+        integrity="sha256-kvIchWEp&#43;ErrcZRZs&#43;asYhowMv17GAoYwE4dEgg/iro="
+        crossorigin="anonymous"></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+
+</html>
