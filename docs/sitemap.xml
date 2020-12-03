@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.muzli.net/about/</loc>
+    <loc>https://blog.muzli.net/post/about/about/</loc>
+    <lastmod>2020-12-01T19:19:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.muzli.net/post/</loc>
+    <lastmod>2020-12-01T19:19:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.muzli.net/</loc>
     <lastmod>2020-12-01T19:19:55+08:00</lastmod>
   </url>
   
@@ -14,16 +24,6 @@
   
   <url>
     <loc>https://blog.muzli.net/post/weekly/</loc>
-    <lastmod>2020-11-26T18:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.muzli.net/post/</loc>
-    <lastmod>2020-11-26T18:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.muzli.net/</loc>
     <lastmod>2020-11-26T18:00:00+08:00</lastmod>
   </url>
   
