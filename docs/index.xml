@@ -8,6 +8,19 @@
     <language>en</language>
     <lastBuildDate>Thu, 03 Dec 2020 18:00:00 +0800</lastBuildDate><atom:link href="https://blog.muzli.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>设计自查总结</title>
+      <link>https://blog.muzli.net/post/article/01-design-check-list/</link>
+      <pubDate>Tue, 07 Apr 2020 18:00:00 +0800</pubDate>
+      
+      <guid>https://blog.muzli.net/post/article/01-design-check-list/</guid>
+      <description>&lt;p&gt;本期摘要：&lt;/p&gt;
+&lt;p&gt;在互联网敏捷开发迭代的过程中，设计师在完成一个设计方案时，为了保证设计方案的完整和正确，可以用自查的方式对设计方案进行查漏补缺，设计自查可以提供全面的检测，为上下游更高效的合作提供一个完整的设计方案,避免了一些后续的麻烦.&lt;/p&gt;
+&lt;p&gt;而一个好的习惯也可以避免不好的影响，提高工作效率，让我们有更多的时间精力进行更有价值的事情。&lt;/p&gt;
+&lt;p&gt;本文总结了关于设计的自查手册，一起来了解下吧。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>设计周刊 Design Weekly #36</title>
       <link>https://blog.muzli.net/post/weekly/weekly036/</link>
       <pubDate>Thu, 03 Dec 2020 18:00:00 +0800</pubDate>
@@ -415,15 +428,6 @@ hi，艾瑞巴蒂，我是木子，一名猫奴兼设计师。
       
       <guid>https://blog.muzli.net/post/weekly/weekly002/</guid>
       <description>🏷 设计资源： 300 多个关于防范冠状病毒的免费图标 号称拥有140w 丰富图标素材的 iconfinder，最近推出了 300 个有关防范冠状病毒的免费图标，包含 svg、png 两种格式可以免费用于海报、传单等设计中。 🏷 网页推荐： 快速学习新技能的小册子们-Booklets Booklets 是一个集产品、设计、UI/UX、品牌、营销等各个领域的学习平台，你在这里可以浏览数百本小册子，快速学习新的知</description>
-    </item>
-    
-    <item>
-      <title>设计自查总结</title>
-      <link>https://blog.muzli.net/post/article/01-design-check-list/</link>
-      <pubDate>Tue, 07 Apr 2020 18:00:00 +0800</pubDate>
-      
-      <guid>https://blog.muzli.net/post/article/01-design-check-list/</guid>
-      <description>为什么设计自查 为了世界和平呀！脑补一下十米大砍刀？哈哈哈，开玩笑~ 工作中我们需要对自己的产出负责，这就是最大的原因（认真脸）。 在互联网敏捷开发迭代的过程中，设计自查可以提供全面的检测，为上下游更高效的合作提供一个完整的设计方案。 设计方案的完整，指的是在自查阶段，考虑设计文件是否符合业务流程，页面的层级关系、信息区分及设计的扩展性。保证设计方案的完整是设计师的</description>
     </item>
     
     <item>

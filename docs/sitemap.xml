@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.muzli.net/post/article/01-design-check-list/</loc>
+    <lastmod>2020-04-07T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.muzli.net/tags/</loc>
     <lastmod>2020-12-03T18:00:00+08:00</lastmod>
   </url>
@@ -229,11 +234,6 @@
   
   <url>
     <loc>https://blog.muzli.net/tags/%E8%87%AA%E6%9F%A5/</loc>
-    <lastmod>2020-04-07T18:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.muzli.net/post/article/01-design-check-list/</loc>
     <lastmod>2020-04-07T18:00:00+08:00</lastmod>
   </url>
   
