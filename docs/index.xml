@@ -6,7 +6,7 @@
     <description>Recent content on 木子的小千世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Dec 2020 18:00:00 +0800</lastBuildDate><atom:link href="https://blog.muzli.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 18:00:00 +0800</lastBuildDate><atom:link href="https://blog.muzli.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>设计自查总结🔥</title>
       <link>https://blog.muzli.net/post/article/01-design-check-list/</link>
@@ -17,6 +17,19 @@
 &lt;p&gt;在互联网敏捷开发迭代的过程中，设计师在完成一个设计方案时，为了保证设计方案的完整和正确，可以用自查的方式对设计方案进行查漏补缺，设计自查可以提供全面的检测，为上下游更高效的合作提供一个完整的设计方案,避免了一些后续的麻烦.&lt;/p&gt;
 &lt;p&gt;而一个好的习惯也可以避免不好的影响，提高工作效率，让我们有更多的时间精力进行更有价值的事情。&lt;/p&gt;
 &lt;p&gt;本文总结了关于设计的自查手册，一起来了解下吧。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>设计周刊 Design Weekly #37</title>
+      <link>https://blog.muzli.net/post/weekly/weekly037/</link>
+      <pubDate>Thu, 10 Dec 2020 18:00:00 +0800</pubDate>
+      
+      <guid>https://blog.muzli.net/post/weekly/weekly037/</guid>
+      <description>&lt;p&gt;本期周刊摘要：&lt;/p&gt;
+&lt;p&gt;资源：DesignRemotely - 远程设计师的资源库；UX Chrismas - 用户体验日历；&lt;/p&gt;
+&lt;p&gt;文章：100 design lessons for 2021；动效设计指南；Element - 网站快速成型工具&lt;/p&gt;
+&lt;p&gt;灵感：Github 的新主页；Sketch 新设计的 BigSur 风格图标&lt;/p&gt;
 </description>
     </item>
     
@@ -446,6 +459,30 @@ hi，艾瑞巴蒂，我是木子，一名猫奴兼设计师。
       
       <guid>https://blog.muzli.net/post/translation/01-12-free-ways-to-learn-design/</guid>
       <description>你不必总是花钱才能赚钱。有大量免费信息可供使用，现在可以学习如何在线设计。这里有十二个很棒的技巧，对你来说都是免费的。 1.学习设计史 你也许认为设计的发展史无关紧要，但了解引导当前设计和文化发展趋势对于成为最佳设计师是尤为重要的。有关设计历史的全面介绍，请参阅 DesignHistory ，想了解更流行的文化方法，请尝试使用 DesignIsHistory 。 2.理解行业术语 自学一下，这是一个基础的术语表 ，开始熟悉行业</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.muzli.net/post/weekly/weekly038/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muzli.net/post/weekly/weekly038/</guid>
+      <description>title: &amp;ldquo;设计周刊 Design Weekly #38&amp;rdquo; date: 2020-12-17T18:00:00+08:00 toc: true isCJKLanguage: true tags: 设计周刊 publishDate: 2020-12-17 summary: &amp;quot; 本期周刊摘要：\n\n 资源：Mac Dock Mockup - Figma 设计模板；Game UI Database- 游戏 UI 资源库；UX设计作品集案例； \n\n 文章：7 Principles of Design from “The Design of Everyday Things”；Small animations; big impact； \n\n 灵感：2020 年的 20 个词；2020 年度 UX 设计工具调查结果 \n\n &amp;quot;
+📕 设计资源 Mac Dock Mockup https://www.figma.com/community/file/918890506938140121
+unfold 设计工作室提供的 Mac Dock 设计模版，免费使用（背景由Apple创建），可以轻松地改变背景图片、颜色和应用块的颜色。
+Game UI Database**- 游戏 UI 资源库** https://designremotely.co
+333个游戏和11813截图，游戏界面设计师的终极参考工具。
+UX设计作品集案例 https://medium.com/thinking-design/inspiring-examples-of-ux-design-portfolios-27df2a7c64f2
+作为一名 UX 设计师，作品集就是你最好的名片。对于作品集的制作是很有挑战性的，文中引用了 6 位来自不同领域的设计师的作品集，涵盖了从研究布局到超简约不同设计范围，让我们一起看看其他设计师能带来什么灵感吧。
+📗 设计文章 7 Principles of Design from “The Design of Everyday Things” https://medium.com/the-innovation/7-principles-of-design-from-the-design-of-everyday-things-48f90b25dc84
+唐-诺曼所著的《日常事物的设计》是用户体验设计的开创性著作。无论设计师的经验水平如何，这本书都能提供宝贵的经验。更重要的是，这本书可以作为一个基础性的视角，让我们了解什么是设计，设计的作用，以及为什么好的设计至关重要。
+文中包含了用户体验设计基础的七项原则：
+ 运用世界知识和头脑知识； 简化任务结构； 使事物可见：在执行和评估之间架起鸿沟； 正确获取映射； 利用约束的力量； 设计错误反馈； 当所有其他方法不发挥作用时，进行标准化。  Small animations; big impact https://uxdesign.cc/a-guide-to-motion-design-principles-7f05f10ccd79
+微动画是如何对用户体验产生影响以及它们如何改善KPI的（例如转换率和可发现性）。文中包含了两项用户研究，基于有140多个参与者进行了研究。
+📙 设计新闻 2020 年的 20 个词 https://mp.weixin.qq.com/s/p7w4OhnCyv2LD-4R_vhH2g
+又到了一年一度年度总结的时候，Voicer 使用微信交互文带大家回顾总结了 2020 的年度热度词
+2020 年度 UX 设计工具调查结果 https://uxtools.co/survey-2020/
+COVID-19改变了我们的生活方式以来，也改变我们的工作方式。视频会议和远程工作的兴起是显而易见的，但像设计这样高度协作工作，设计师在家中是如何与利益相关者和开发人员合作的？或者怎样与客户测试他们的设计？在文中4000多名设计师的回答中，我们可以找到答案。</description>
     </item>
     
   </channel>
